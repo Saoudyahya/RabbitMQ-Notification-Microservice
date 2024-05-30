@@ -1,0 +1,70 @@
+2024-05-26T17:47:25.327Z info: Server is running on port 3002
+2024-05-26T17:47:25.404Z info: Eureka client started successfully
+2024-05-26T17:47:25.692Z info: Waiting for messages in IMPORT-EXPORT-QUEUE
+2024-05-26T17:48:25.499Z info: Server is running on port 3002
+2024-05-26T17:48:25.569Z info: Eureka client started successfully
+2024-05-26T17:48:25.797Z info: Waiting for messages in IMPORT-EXPORT-QUEUE
+2024-05-26T17:49:40.046Z info: Server is running on port 3002
+2024-05-26T17:49:40.099Z info: Eureka client started successfully
+2024-05-26T17:49:40.161Z info: Waiting for messages in IMPORT-EXPORT-QUEUE
+2024-05-26T17:49:56.801Z info: New WebSocket connection
+2024-05-26T17:50:27.779Z info: Server is running on port 3002
+2024-05-26T17:50:27.876Z info: Eureka client started successfully
+2024-05-26T17:50:28.041Z info: Waiting for messages in IMPORT-EXPORT-QUEUE
+2024-05-26T17:50:50.871Z info: Server is running on port 3002
+2024-05-26T17:50:50.920Z info: Eureka client started successfully
+2024-05-26T17:50:50.976Z info: Waiting for messages in IMPORT-EXPORT-QUEUE
+2024-05-26T23:13:55.423Z info: Server is running on port 3002
+2024-05-26T23:13:55.624Z error: Error connecting to RabbitMQ:
+2024-05-26T23:13:59.283Z error: Eureka client failed to start:
+2024-05-26T23:19:52.873Z info: Server is running on port 3002
+2024-05-26T23:19:52.906Z error: Error connecting to RabbitMQ:
+2024-05-26T23:19:52.930Z info: Eureka client started successfully
+2024-05-26T23:25:04.273Z info: New WebSocket connection
+2024-05-26T23:25:10.717Z info: WebSocket connection closed
+2024-05-26T23:25:32.856Z info: New WebSocket connection
+2024-05-26T23:25:32.880Z info: New WebSocket connection
+2024-05-26T23:25:32.890Z info: WebSocket connection closed
+2024-05-26T23:25:34.721Z info: WebSocket connection closed
+2024-05-26T23:25:34.790Z info: New WebSocket connection
+2024-05-26T23:25:34.799Z info: New WebSocket connection
+2024-05-26T23:25:34.806Z info: WebSocket connection closed
+2024-05-26T23:28:03.515Z info: Server is running on port 3002
+2024-05-26T23:28:03.583Z info: Eureka client started successfully
+2024-05-26T23:28:03.616Z info: Waiting for messages in IMPORT-EXPORT-QUEUE
+2024-05-26T23:28:11.471Z info: Received message: {"action":"DELETE","messageId":"12ecc648-cb34-4f36-9140-d6c2fa1c095f","massageDate":1716766090180,"message":" Product:  with id:221 Reference:  have been DELETE"}
+2024-05-26T23:28:11.472Z info: Broadcasted message to clients: {"action":"DELETE","messageId":"12ecc648-cb34-4f36-9140-d6c2fa1c095f","massageDate":1716766090180,"message":" Product:  with id:221 Reference:  have been DELETE"}
+2024-05-26T23:28:47.467Z info: New WebSocket connection
+2024-05-26T23:28:52.392Z info: Received message: {"action":"DELETE","messageId":"70f0b72d-21a5-4df7-837d-539bc5212dc6","massageDate":1716766132384,"message":" Product:  with id:220 Reference:  have been DELETE"}
+2024-05-26T23:28:52.395Z info: Broadcasted message to clients: {"action":"DELETE","messageId":"70f0b72d-21a5-4df7-837d-539bc5212dc6","massageDate":1716766132384,"message":" Product:  with id:220 Reference:  have been DELETE"}
+2024-05-26T23:28:59.503Z info: WebSocket connection closed
+2024-05-26T23:28:59.624Z info: New WebSocket connection
+2024-05-26T23:29:02.988Z info: Received message: {"action":"DELETE","messageId":"e5db5ca6-65bb-4b3f-92fd-4ab9ec06d98a","massageDate":1716766142980,"message":" Product: dzdzadzd with id:222 Reference: yajoo have been DELETE"}
+2024-05-26T23:29:02.989Z info: Broadcasted message to clients: {"action":"DELETE","messageId":"e5db5ca6-65bb-4b3f-92fd-4ab9ec06d98a","massageDate":1716766142980,"message":" Product: dzdzadzd with id:222 Reference: yajoo have been DELETE"}
+2024-05-26T23:29:14.455Z info: Received message: {"action":"DELETE","messageId":"ba3ca370-0e3b-4a43-9be6-d729867fa42b","massageDate":1716766154450,"message":" Product:  with id:225 Reference:  have been DELETE"}
+2024-05-26T23:29:14.457Z info: Broadcasted message to clients: {"action":"DELETE","messageId":"ba3ca370-0e3b-4a43-9be6-d729867fa42b","massageDate":1716766154450,"message":" Product:  with id:225 Reference:  have been DELETE"}
+2024-05-26T23:29:44.421Z info: WebSocket connection closed
+2024-05-26T23:29:44.520Z info: New WebSocket connection
+2024-05-26T23:29:55.082Z info: Received message: {"action":"DELETE","message":" Order: 47d with id:17 type: IMPORT have been DELETE","messageId":"79b93864-a57c-4f38-af41-695b2f6395a1","orderId":17,"massageDate":1716766194195}
+2024-05-26T23:29:55.084Z info: Broadcasted message to clients: {"action":"DELETE","message":" Order: 47d with id:17 type: IMPORT have been DELETE","messageId":"79b93864-a57c-4f38-af41-695b2f6395a1","orderId":17,"massageDate":1716766194195}
+2024-05-28T12:14:28.662Z info: Server is running on port 3002
+2024-05-28T12:14:28.910Z info: Eureka client started successfully
+2024-05-28T12:14:58.080Z info: Waiting for messages in IMPORT-EXPORT-QUEUE
+2024-05-28T12:15:51.057Z info: New WebSocket connection
+2024-05-28T12:15:51.061Z info: New WebSocket connection
+2024-05-28T12:15:51.095Z info: WebSocket connection closed
+2024-05-28T12:15:55.232Z info: WebSocket connection closed
+2024-05-28T12:15:55.257Z info: New WebSocket connection
+2024-05-28T12:15:55.273Z info: WebSocket connection closed
+2024-05-28T12:15:55.281Z info: New WebSocket connection
+2024-05-28T12:16:00.206Z info: Received message: {"action":"DELETE","message":" Reward point : 0 with id:2for com.example.clientMicroservice.models.Client@414977b6 have been DELETE","messageId":"471ca02e-924f-4878-9d76-204135b0bf3a","massageDate":1716898559901}
+2024-05-28T12:16:00.207Z info: Broadcasted message to clients: {"action":"DELETE","message":" Reward point : 0 with id:2for com.example.clientMicroservice.models.Client@414977b6 have been DELETE","messageId":"471ca02e-924f-4878-9d76-204135b0bf3a","massageDate":1716898559901}
+2024-05-28T12:16:05.133Z info: WebSocket connection closed
+2024-05-28T12:18:27.860Z info: New WebSocket connection
+2024-05-28T12:18:27.884Z info: New WebSocket connection
+2024-05-28T12:18:27.895Z info: WebSocket connection closed
+2024-05-28T12:23:43.316Z info: WebSocket connection closed
+2024-05-28T13:07:33.776Z info: New WebSocket connection
+2024-05-28T13:07:33.791Z info: New WebSocket connection
+2024-05-28T13:07:33.809Z info: WebSocket connection closed
+2024-05-28T13:15:11.529Z info: WebSocket connection closed
