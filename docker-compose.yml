@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   notification-service:
-    image: import-export-microservice:latest
+    image: notification-service-microservice:latest
     build: .
     container_name: notification-service
     ports:
